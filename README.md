@@ -1,6 +1,6 @@
-### Hi there 👋.  
+### Hi there 👋,  I'm Denisse Nova
 
-<a href="https://www.linkedin.com/in/denisse-nova/"
+<a href="https://www.linkedin.com/in/denisse-nova/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <br />
