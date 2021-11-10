@@ -9,7 +9,7 @@
 Talking about Personal Stuffs:
 
 
-- 🤔 My interests are Front End development;
+- 🤔 My interests are Front-End development;
 - 📫 Please email via denisse.nova.v@gmail.com to reach me;
 
 
