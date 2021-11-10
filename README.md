@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋.  
 
 <a href="https://www.linkedin.com/in/denisse-nova/"
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -37,6 +37,7 @@ Languages and Tools:
 
 
 <br />
+![DenisseNova](https://github-readme-stats.vercel.app/api?username=DenisseNova&show_icons=true&theme=blueberry)
 
 ![DenisseNova](https://github-readme-stats.vercel.app/api?username=DenisseNova&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry)
 
