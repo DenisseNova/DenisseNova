@@ -38,6 +38,7 @@ Languages and Tools:
 
 <br />
 ![DenisseNova](https://github-readme-stats.vercel.app/api?username=DenisseNova&show_icons=true&theme=blueberry)
+<br />
 
 ![DenisseNova](https://github-readme-stats.vercel.app/api?username=DenisseNova&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blueberry)
 
